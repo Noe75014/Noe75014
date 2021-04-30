@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1618999258 source:c:\users\nnoer\onedrive\documents\location_véhicules\ajout_vehicule.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+
+1619605310 c:\users\nnoer\onedrive\documents\location_véhicules\structure.h
+
+1619775935 source:c:\users\nnoer\onedrive\documents\location_véhicules\menu_administrateur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+
+1619776267 source:c:\users\nnoer\onedrive\documents\location_véhicules\menu_clients.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+
+1619017147 source:c:\users\nnoer\onedrive\documents\location_véhicules\menu_principal.c
+	<stdio.h>
+	"Menu_administrateur.h"
+	"Menu_clients.h"
+
+1618844138 c:\users\nnoer\onedrive\documents\location_véhicules\menu_administrateur.h
+
+1617787806 c:\users\nnoer\onedrive\documents\location_véhicules\menu_clients.h
+
+1619776183 source:c:\users\nnoer\onedrive\documents\location_véhicules\reclamation.c
+	<stdio.h>
+	"reclamation.h"
+
+1619775882 c:\users\nnoer\onedrive\documents\location_véhicules\reclamation.h
+
